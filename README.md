@@ -11,7 +11,7 @@ IDE (e.g., IntelliJ IDEA, Eclipse)
 1. Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/selenium-cucumber-testng-framework.git
+git clone https://github.com/ishaaniqbal/STSAutomationPractical/tree/master
 
 **Install Dependencies**
 Navigate to the project folder and run the following Maven command to download all the required dependencies:
